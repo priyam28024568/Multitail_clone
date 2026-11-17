@@ -19,9 +19,9 @@ A lightweight, real-time log monitoring utility for POSIX-compliant systems writ
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/priyam28024568/tailclone.git](https://github.com/priyam28024568/tailclone.git)
-   cd tailclone
-
+   git clone https://github.com/priyam28024568/tail_clone.git
+   cd tail_clone
+   ```
 2. **Create a Build directory and compile**
    ```bash
    mkdir build && cd build
