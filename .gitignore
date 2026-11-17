@@ -1,0 +1,21 @@
+# Build directories
+/build/
+/bin/
+/obj/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+*.cmake
+
+# Compiled binaries
+tailclone
+*.o
+*.exe
+
+# OS specific files
+.DS_Store
+Thumbs.db
