@@ -31,16 +31,15 @@ A lightweight, real-time log monitoring utility for POSIX-compliant systems writ
 3. **Install system-wide(optional)**
    ```bash
    sudo cmake --install .
-   ```
-once installed 
+   ``` 
 **Usage**
-```
-tailclone filepath
-```
+   ```
+   tailclone filepath
+   ```
 **Uninstallation**
-```
-sudo rm /usr/local/bin/tailclone
-```
+   ```
+   sudo rm /usr/local/bin/tailclone
+   ```
 
 
    
